@@ -14,9 +14,11 @@ DART：https://github.com/Yale-LILY/dart
 
 ## Main File
 
+Source/alpaca-lora-data2-text-master
 
+Source/chatgpt-for-d2t-master
 
-## Run
+Source/mvp-data2-text-master
 
-
+Source/sftdata2-text-master
 
